@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @wangondu01
+- 👀 I’m interested in ...learning python and specializing in data analytics/data science, looking for a mentor to guide me through a change of career from finance to IT
